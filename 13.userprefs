@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\raiz\Scripts\ArmaChao2.js">
+    <Files>
+      <File FileName="Assets\raiz\Scripts\Inventario.js" Line="1" Column="1" />
+      <File FileName="Assets\raiz\Scripts\ArmaChao.js" Line="9" Column="16" />
+      <File FileName="Assets\raiz\Scripts\arma2.js" Line="1" Column="1" />
+      <File FileName="Assets\raiz\Scripts\arma.js" Line="1" Column="1" />
+      <File FileName="Assets\raiz\Scripts\ArmaChao2.js" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
